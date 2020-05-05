@@ -3,8 +3,10 @@
 ## May 5, 2020
 - Introduction to HTML (Scrimba)
   - HTML LAYOUT ELEMENTS
+  - HTML FIGURE & IMAGE ELEMENTS
 - modified the example to demonstrate usage of HTML layout elements
 - checked the example with the W3 validator and corrected errors
+- an example of figure and img elements was added
 
 ## May 4, 2020
 - Introduction to HTML (Scrimba)
