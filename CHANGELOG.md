@@ -6,6 +6,7 @@
   - HTML FIGURE & IMAGE ELEMENTS
   - EMBEDDING VIDEOS IN HTML
   - NAVBAR & LIST ITEMS IN HTML
+  - HEADINGS IN HTML
 - The example was modified to demonstrate usage of HTML layout elements.
 - The example was checked with the W3 validator and updated to fix errors.
 - An example of figure and img elements was added.
