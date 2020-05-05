@@ -4,11 +4,13 @@
 - Introduction to HTML (Scrimba)
   - HTML LAYOUT ELEMENTS
   - HTML FIGURE & IMAGE ELEMENTS
+  - EMBEDDING VIDEOS IN HTML
 - The example was modified to demonstrate usage of HTML layout elements.
 - The example was checked with the W3 validator and updated to fix errors.
 - An example of figure and img elements was added.
 - CHANGELOG.md was updated to keep the same description style.
 - A comment was removed from the index.html.
+- An example of video and source elements was added.
 
 ## May 4, 2020
 - Introduction to HTML (Scrimba)
