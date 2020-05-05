@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title>Index page | html-learning</title>
         <meta charset="UTF-8">
@@ -8,18 +8,69 @@
         <link href="./index.css" rel="stylesheet">
     </head>
     <body>
-        <main>
-            <h1>Welcome to the index page</h1>
-            <p>This page is an example of nested HTML elements.</p>
-            <code>
-                <pre>
-&lt;main&gt;
-    &lt;h1&gt;Welcome to the index page&lt;/h1&gt;
-    &lt;p&gt;This page is an example of nested HTML elements.&lt;/p&gt;
-&lt;/main&gt;
-                </pre>
-            </code>
+        <header id="header">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#header">Header</a>
+                    </li>
+                    <li>
+                        <a href="#main">Main</a>
+                    </li>
+                    <li>
+                        <a href="#footer">Footer</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main id="main">
+            <section id="intro">
+                <h1>Welcome to the index page</h1>
+                <p>This page is for improving in HTML.</p>
+            </section>
+            <section id="examples">
+                <h2>Examples</h2>
+                <article>
+                    <h3>Article</h3>
+                    <p>This is an example of how one can use an article.</p>
+                    <pre>
+                        <code>
+&lt;article&gt;
+    &lt;h3&gt;Article&lt;/h3&gt;
+    &lt;p&gt;This is an example of how one can use an article.&lt;/p&gt;
+&lt;article&gt;
+                        </code>
+                    </pre>
+                </article>
+            </section>
         </main>
+        <aside>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#intro">Intro</a>
+                    </li>
+                    <li>
+                        <a href="#examples">Examples</a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+        <footer id="footer">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#header">Header</a>
+                    </li>
+                    <li>
+                        <a href="#main">Main</a>
+                    </li>
+                    <li>
+                        <a href="#footer">Footer</a>
+                    </li>
+                </ul>
+            </nav>
+        </footer>
         <script src="./index.js"></script>
     </body>
 </html>
