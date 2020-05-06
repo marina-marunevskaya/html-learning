@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 6, 2020
+- Introduction to HTML (Scrimba)
+  - HTML PARAGRAPH & TEXT FORMATTING (PART 1)
+- An example of text formatting was added.
+
 ## May 5, 2020
 - Introduction to HTML (Scrimba)
   - HTML LAYOUT ELEMENTS
