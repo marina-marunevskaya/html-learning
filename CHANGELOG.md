@@ -5,9 +5,11 @@
   - HTML PARAGRAPH & TEXT FORMATTING (PART 1)
   - TEXT FORMATTING IN HTML (PART 2)
   - HOW TO CREATE TABLES (PART 1)
+  - HOW TO CREATE HTML TABLES (PART 2)
 - An example of text formatting was added.
 - Another example of text formatting was added.
 - An example with a table was added.
+- The table example was modified to add more elements.
 
 ## May 5, 2020
 - Introduction to HTML (Scrimba)
