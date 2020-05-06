@@ -3,7 +3,9 @@
 ## May 6, 2020
 - Introduction to HTML (Scrimba)
   - HTML PARAGRAPH & TEXT FORMATTING (PART 1)
+  - TEXT FORMATTING IN HTML (PART 2)
 - An example of text formatting was added.
+- Another example of text formatting was added.
 
 ## May 5, 2020
 - Introduction to HTML (Scrimba)
