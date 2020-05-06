@@ -4,8 +4,10 @@
 - Introduction to HTML (Scrimba)
   - HTML PARAGRAPH & TEXT FORMATTING (PART 1)
   - TEXT FORMATTING IN HTML (PART 2)
+  - HOW TO CREATE TABLES (PART 1)
 - An example of text formatting was added.
 - Another example of text formatting was added.
+- An example with a table was added.
 
 ## May 5, 2020
 - Introduction to HTML (Scrimba)
