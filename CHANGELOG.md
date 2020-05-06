@@ -6,6 +6,7 @@
   - TEXT FORMATTING IN HTML (PART 2)
   - HOW TO CREATE TABLES (PART 1)
   - HOW TO CREATE HTML TABLES (PART 2)
+  - PAGE LINKING IN HTML & FINAL TOUCHES
 - An example of text formatting was added.
 - Another example of text formatting was added.
 - An example with a table was added.
