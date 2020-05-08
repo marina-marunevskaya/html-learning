@@ -2,6 +2,7 @@
 
 ## May 8, 2020
 - The course files were moved to a separate folder.
+- A separate folder and an empty index.html were created for another tutorial on HTML.
 
 ## May 6, 2020
 - Introduction to HTML (Scrimba)
