@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## May 8, 2020
+- The course files were moved to a separate folder.
+
 ## May 6, 2020
 - Introduction to HTML (Scrimba)
   - HTML PARAGRAPH & TEXT FORMATTING (PART 1)
