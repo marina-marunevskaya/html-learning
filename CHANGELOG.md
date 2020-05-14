@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 14, 2020
+- An example based on the video HTML Crash Course For Absolute Beginners (Traversy Media) was added.
+- The example was validated with an HTML5 validator.
+- Validation errors were fixed.
+
 ## May 8, 2020
 - The course files were moved to a separate folder.
 - A separate folder and an empty index.html were created for another tutorial on HTML.
