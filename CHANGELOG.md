@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## May 17, 2020
+- A basic example to demonstrate HTML skills was added.
+
 ## May 14, 2020
 - An example based on the video HTML Crash Course For Absolute Beginners (Traversy Media) was added.
 - The example was validated with an HTML5 validator.
