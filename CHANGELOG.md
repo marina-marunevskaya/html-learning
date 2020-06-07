@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## June 7, 2020
+- Wiki pages were added to the repository.
+
 ## May 17, 2020
 - A basic example to demonstrate HTML skills was added.
 
